@@ -1,5 +1,3 @@
 # hello-world
 
-Hello
-
-My name is Janki.
+Just another
